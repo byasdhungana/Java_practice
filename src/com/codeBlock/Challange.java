@@ -18,7 +18,7 @@ public class Challange {
     }
 
     public static void displayHighScorePosition(String playerName, int highScorePosition) {
-        System.out.println(playerName + " Managed to get into position " + highScorePosition + " on the high score table");
+        System.out.println(playerName + " Managed to get into positions " + highScorePosition + " on the high score table");
     }
 
     public static int calculateHighScorePosition(int playerScore) {
